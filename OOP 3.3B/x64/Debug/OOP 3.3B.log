@@ -1,0 +1,10 @@
+﻿  FuzzyNumber.cpp
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\FuzzyNumber.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\FuzzyNumber.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Source.cpp
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\FuzzyNumber.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triad.cpp
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\Triad.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  OOP 3.3B.vcxproj -> C:\Users\hp\source\repos\OOP 3.3B\x64\Debug\OOP 3.3B.exe

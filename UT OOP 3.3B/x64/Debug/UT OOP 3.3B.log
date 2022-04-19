@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UT OOP 3.3B.cpp
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\FuzzyNumber.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3B\OOP 3.3B\FuzzyNumber.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3B\UT OOP 3.3B\UT OOP 3.3B.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\hp\source\repos\OOP 3.3B\x64\Debug\UT OOP 3.3B.lib и объект C:\Users\hp\source\repos\OOP 3.3B\x64\Debug\UT OOP 3.3B.exp
+  UT OOP 3.3B.vcxproj -> C:\Users\hp\source\repos\OOP 3.3B\x64\Debug\UT OOP 3.3B.dll
